@@ -1,0 +1,16 @@
+# Segredos e configuração local
+.env
+.env.*
+!.env.example
+
+# Ferramentas/ambiente
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+*.log
+
+# Dependências e caches
+vendor/
+node_modules/
+.cache/
