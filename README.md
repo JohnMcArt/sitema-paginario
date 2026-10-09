@@ -73,6 +73,10 @@ paginario/
 - Confirme que os arquivos do acervo podem ser redistribuídos no repositório público.
 - Faça testes de autenticação, formulários e operações CRUD com um banco de desenvolvimento.
 
+## Demonstração Básica
+
+Caso queira apenas ver o projeto, aqui um link de demonstração: https://johnmcart.gt.tc/index.php
+
 ## Licença
 
 Nenhuma licença de código foi definida neste repositório. Se pretende permitir reutilização, escolha uma licença apropriada e inclua o arquivo `LICENSE`. Verifique separadamente os direitos de distribuição dos livros e imagens incluídos.
